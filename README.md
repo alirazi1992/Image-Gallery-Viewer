@@ -68,6 +68,7 @@ ImageGalleryViewer/
 │   ImageGalleryViewer.csproj
 
 │   Program.cs
+
 │
 ├── MainForm.cs           # Logic for main window
 
