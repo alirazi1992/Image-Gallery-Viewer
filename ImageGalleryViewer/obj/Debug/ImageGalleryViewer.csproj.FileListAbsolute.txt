@@ -1,0 +1,10 @@
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\bin\Debug\ImageGalleryViewer.exe.config
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\bin\Debug\ImageGalleryViewer.exe
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\bin\Debug\ImageGalleryViewer.pdb
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.Properties.Resources.resources
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.exe
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.pdb
+C:\Users\a.razi\source\repos\ImageGalleryViewer\ImageGalleryViewer\obj\Debug\ImageGalleryViewer.exe.config
